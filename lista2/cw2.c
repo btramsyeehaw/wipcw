@@ -22,4 +22,5 @@ int main()
         }
         pierwszosc = 1;
     }
+    return 0;
 }
